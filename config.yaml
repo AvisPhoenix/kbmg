@@ -1,0 +1,10 @@
+Log: kbmg.log
+Env:
+  dev: SYSTEM-DEV
+  qa: SYSTEM-QA
+Namespace:
+  m: microservices
+  b: background
+PodAlias:
+  itest: integration-tests
+  adata: account-data
