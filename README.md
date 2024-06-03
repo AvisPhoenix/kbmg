@@ -75,8 +75,8 @@ make
 - Compatibility with windows
 
 # Contributors
-<a class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">  <span class="Button-content" href="https://github.com/AvisPhoenix">
-    <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/49039545?v=4" alt="" size="32" height="32" width="32" class="avatar circle"></span>
+<a href="https://github.com/AvisPhoenix">  <span class="Button-content">
+    <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/49039545?v=4" alt="" size="32" height="32" width="32" style="border-radius: 50%;"></span>
   </span>
 </a>
 
